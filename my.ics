@@ -4,6 +4,6 @@ PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DTSTART:20210201T080000Z
 SUMMARY:My cool event
-UID:d0ebd9bd-d2dd-4b16-a742-32b26e989b4e@d0eb.org
+UID:8b025e47-63ad-4bca-99cb-591f127bb6b5@8b02.org
 END:VEVENT
 END:VCALENDAR
